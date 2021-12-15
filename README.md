@@ -3,7 +3,6 @@
 
 - 👀 I’m interested in Data Structures and Algorithms right now and exploring the domain of web dev and machine learning too.
 - 🌱 I’m currently learning Machie Learning using Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : eamil : kartikay4141@gmail.com , linkedin : https://www.linkedin.com/in/kartikay-mishra-894388212 .
 
 <!---
